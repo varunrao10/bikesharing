@@ -32,7 +32,7 @@ The purpose of this analysis was to better understand the trends from Citibike i
 ![StoryP7](Resources/screenshots/storyp7.PNG)
 
 
-
 ## Summary:
+- From our analysis Male riders are the predominant users of the bike service, Thursdays from 5-6pm bike trips are the highest, Females and Males have similar patterns in when they take their bike trips, and Thursday, Friday and Saturday are the most popular days for bike trips for both male and female suscribers. Two visualizations that can be added are the correlations between birthyear and tripduration, and another one on the most used starting locations by bikeid.
 
 
